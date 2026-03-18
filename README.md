@@ -4,7 +4,7 @@ This is a Verilog HDL project to design and simulate a **4-bit Ripple Carry Adde
 
 ---
 
-## 📌 Features
+## Features
 - Adds two 4-bit binary numbers (`a[3:0]`, `b[3:0]`)
 - Outputs 4-bit sum and 1-bit carry-out
 - Fully structural Verilog design (no behavioral)
@@ -12,7 +12,7 @@ This is a Verilog HDL project to design and simulate a **4-bit Ripple Carry Adde
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - **Vivado 2023.2**
 - **Verilog HDL**
 - Testbench for simulation
@@ -20,7 +20,7 @@ This is a Verilog HDL project to design and simulate a **4-bit Ripple Carry Adde
 
 ---
 
-## 📂 Files Included
+## Files Included
 - `four_bit.v` – Verilog code for 4-bit RCA
 - `testbench.v` – Testbench with sample inputs
 - `.xpr` – Vivado project file
@@ -31,7 +31,7 @@ This is a Verilog HDL project to design and simulate a **4-bit Ripple Carry Adde
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 - Structural modeling in Verilog
 - Carry propagation logic
 - RTL to waveform verification flow
